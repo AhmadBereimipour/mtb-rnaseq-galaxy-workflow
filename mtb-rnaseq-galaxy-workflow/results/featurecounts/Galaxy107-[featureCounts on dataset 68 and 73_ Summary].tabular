@@ -1,0 +1,15 @@
+Status	HISAT2 on dataset 29 and 30: aligned reads (BAM)
+Assigned	3301160
+Unassigned_Unmapped	5315248
+Unassigned_Read_Type	0
+Unassigned_Singleton	0
+Unassigned_MappingQuality	0
+Unassigned_Chimera	2333617
+Unassigned_FragmentLength	0
+Unassigned_Duplicate	0
+Unassigned_MultiMapping	475666
+Unassigned_Secondary	0
+Unassigned_NonSplit	0
+Unassigned_NoFeatures	12004497
+Unassigned_Overlapping_Length	0
+Unassigned_Ambiguity	4959

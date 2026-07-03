@@ -1,0 +1,66 @@
+Folder PATH listing for volume Windows
+Volume serial number is 000001FE 5E36:58DE
+C:\USERS\AHMAD\DOWNLOADS\MTB-RNASEQ-GALAXY-WORKFLOW
+¦   .gitignore
+¦   README.md
+¦   repo_file_check.csv
+¦   repo_tree.txt
+¦   
++---docs
+¦   +---fastqc_reports
+¦   ¦       FastQC_on_dataset_13__Webpage.zip
+¦   ¦       FastQC_on_dataset_14__Webpage.zip
+¦   ¦       FastQC_on_dataset_17__Webpage.zip
+¦   ¦       FastQC_on_dataset_18__Webpage.zip
+¦   ¦       FastQC_on_dataset_21__Webpage.zip
+¦   ¦       FastQC_on_dataset_22__Webpage.zip
+¦   ¦       FastQC_on_dataset_25__Webpage.zip
+¦   ¦       FastQC_on_dataset_26__Webpage.zip
+¦   ¦       FastQC_on_dataset_29__Webpage.zip
+¦   ¦       FastQC_on_dataset_30__Webpage.zip
+¦   ¦       FastQC_on_dataset_33__Webpage.zip
+¦   ¦       FastQC_on_dataset_34__Webpage.zip
+¦   ¦       Galaxy38-[FastQC on dataset 34_ RawData].txt
+¦   ¦       Galaxy40-[FastQC on dataset 33_ RawData].txt
+¦   ¦       Galaxy42-[FastQC on dataset 30_ RawData].txt
+¦   ¦       Galaxy44-[FastQC on dataset 29_ RawData].txt
+¦   ¦       Galaxy46-[FastQC on dataset 26_ RawData].txt
+¦   ¦       Galaxy48-[FastQC on dataset 25_ RawData].txt
+¦   ¦       Galaxy50-[FastQC on dataset 22_ RawData].txt
+¦   ¦       Galaxy52-[FastQC on dataset 21_ RawData].txt
+¦   ¦       Galaxy54-[FastQC on dataset 18_ RawData].txt
+¦   ¦       Galaxy56-[FastQC on dataset 17_ RawData].txt
+¦   ¦       Galaxy58-[FastQC on dataset 14_ RawData].txt
+¦   ¦       Galaxy60-[FastQC on dataset 13_ RawData].txt
+¦   ¦       
+¦   +---screenshots
++---metadata
+¦       accessions.txt
+¦       reference_genome_info.md
+¦       sample_metadata.csv
+¦       
++---results
+¦   +---deseq2
+¦   ¦       Galaxy110-[DESeq2 result file on dataset 98, 100, and others].tabular
+¦   ¦       Galaxy111-[DESeq2 plots on dataset 98, 100, and others].pdf
+¦   ¦       Galaxy112-[Normalized counts file on dataset 98, 100, and others].tabular
+¦   ¦       Galaxy113-[rLog-Normalized counts file on dataset 98, 100, and others].tabular
+¦   ¦       Galaxy114-[VST-Normalized counts file on dataset 98, 100, and others].tabular
+¦   ¦       
+¦   +---featurecounts
+¦           Galaxy100-[featureCounts on dataset 71 and 73_ Counts].tabular
+¦           Galaxy101-[featureCounts on dataset 71 and 73_ Summary].tabular
+¦           Galaxy102-[featureCounts on dataset 70 and 73_ Counts].tabular
+¦           Galaxy103-[featureCounts on dataset 70 and 73_ Summary].tabular
+¦           Galaxy104-[featureCounts on dataset 69 and 73_ Counts].tabular
+¦           Galaxy105-[featureCounts on dataset 69 and 73_ Summary].tabular
+¦           Galaxy106-[featureCounts on dataset 68 and 73_ Counts].tabular
+¦           Galaxy107-[featureCounts on dataset 68 and 73_ Summary].tabular
+¦           Galaxy108-[featureCounts on dataset 67 and 73_ Counts].tabular
+¦           Galaxy109-[featureCounts on dataset 67 and 73_ Summary].tabular
+¦           Galaxy98-[featureCounts on dataset 72 and 73_ Counts].tabular
+¦           Galaxy99-[featureCounts on dataset 72 and 73_ Summary].tabular
+¦           
++---workflow
+        galaxy_workflow_steps.md
+        

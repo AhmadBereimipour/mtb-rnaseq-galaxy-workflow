@@ -1,0 +1,8 @@
+GSE126286
+
+GSM3595703  wild_type_1
+GSM3595704  wild_type_2
+GSM3595705  wild_type_3
+GSM3595706  mutant_RNJ_1
+GSM3595707  mutant_RNJ_2
+GSM3595708  mutant_RNJ_3

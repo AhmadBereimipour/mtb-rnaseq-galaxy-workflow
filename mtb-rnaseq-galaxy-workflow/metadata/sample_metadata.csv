@@ -1,0 +1,7 @@
+sample_id,geo_accession,condition,replicate,read_1,read_2
+ctrl_1,GSM3595703,control,1,ctrl 1_1.fastq,ctrl 1_2.fastq
+ctrl_2,GSM3595704,control,2,ctrl 2_1.fastq,ctrl 2_2.fastq
+ctrl_3,GSM3595705,control,3,ctrl 3_1.fastq,ctrl 3_2.fastq
+mutant_1,GSM3595706,mutant_RNJ,1,mutant 1_1.fastq,mutant 1_2.fastq
+mutant_2,GSM3595707,mutant_RNJ,2,mutant 2_1.fastq,mutant 2_2.fastq
+mutant_3,GSM3595708,mutant_RNJ,3,mutant 3_1.fastq,mutant 3_2.fastq
